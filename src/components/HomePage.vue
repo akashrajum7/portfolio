@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <div class="dp-cont">
-      <img src="@/assets/profile-photo.jpg" alt="Profile photo" height="100" width="100" />
+      <img src="@/assets/profile-photo.png" alt="Profile photo" height="100" width="100" />
       <h1 class="name">Akash Raju M</h1>
       <p class="hello">Hello there 👋</p>
     </div>

@@ -43,10 +43,9 @@
           href="https://jamstack.org/"
         >JAMStack</a>,
         <a href="https://en.wikipedia.org/wiki/Serverless_computing">Serverless Functions</a> and
-        <a href="https://firebase.google.com/">Firebase</a>. In future I would also like to learn Svelte and a desktop framework like
-        <a
-          href="https://www.electronjs.org/"
-        >Electron</a> and mobile framework like
+        <a href="https://firebase.google.com/">Firebase</a>. In future I would also like to learn
+        <a href="https://svelte.dev/">Svelte</a> and a desktop framework like
+        <a href="https://www.electronjs.org/">Electron</a> and mobile framework like
         <a href="https://flutter.dev/">Flutter</a>. I also love
         <a href="https://www.python.org/">python</a> for it's simplicity and wanna learn
         <a href="https://golang.org/">Go</a>. I have recently started writing on

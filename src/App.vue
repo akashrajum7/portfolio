@@ -23,7 +23,4 @@ export default {
   box-sizing: border-box;
   font-family: "Rubik", sans-serif;
 }
-html {
-  height: 100vh;
-}
 </style>

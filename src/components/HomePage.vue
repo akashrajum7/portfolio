@@ -85,6 +85,9 @@ export default {
   width: 85%;
   margin: auto;
 }
+img {
+  display: block;
+}
 a {
   text-decoration: none;
 }

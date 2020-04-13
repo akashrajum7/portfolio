@@ -84,6 +84,7 @@ export default {
 .container {
   width: 85%;
   margin: auto;
+  max-width: 1024px;
 }
 img {
   display: block;

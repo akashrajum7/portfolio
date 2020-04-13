@@ -104,7 +104,8 @@ nav ul {
   background-color: black;
   transition: transform 0.2s;
 }
-.resume-btn:hover {
+.resume-btn:hover,
+.resume-btn:focus {
   transform: scale(1.1);
 }
 .dp-cont {

@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div class="main-container">
     <header class="container">
       <nav>
         <a class="logo" href="/">
@@ -78,6 +78,9 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+.main-container {
+  margin-top: 1.5rem;
+}
 .container {
   width: 85%;
   margin: auto;

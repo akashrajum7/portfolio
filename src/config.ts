@@ -3,9 +3,9 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://thatsoftware.dev/", // replace this with your deployed domain
   author: "Akash Raju M",
-  desc: "Experienced Software Developer with 5 years of expertise in JavaScript and Python. Demonstrated success in solo and leadership roles across startups and Fortune 500 companies, including Ford.",
-  title: "ThatSoftware.Dev",
-  ogImage: "akash-banner.png",
+  desc: "My tiny little corner on the internet where I write about software development, tech, and life.",
+  title: "ThatSoftware.Dev(eloper)",
+  ogImage: "akash-banner.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes

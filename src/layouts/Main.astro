@@ -1,6 +1,5 @@
 ---
 import Breadcrumbs from "@components/Breadcrumbs.astro";
-import  SpeedInsights  from "@vercel/speed-insights/astro"
 
 interface StringTitleProp {
   pageTitle: string;
@@ -34,7 +33,6 @@ const { props } = Astro;
   }
   <p>{props.pageDesc}</p>
   <slot />
-  <SpeedInsights/>
 </main>
 
 <style>

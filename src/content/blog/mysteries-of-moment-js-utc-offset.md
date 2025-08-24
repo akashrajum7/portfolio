@@ -4,7 +4,7 @@ pubDatetime: 2020-12-11T16:51:00.000Z
 modDatetime: 2020-12-11T16:51:00.000Z
 title: Mysteries of Moment.js's UTC offset
 slug: mysteries-of-moment-js-utc-offset
-featured: true
+featured: false
 draft: false
 tags:
   - javascript
